@@ -31,7 +31,7 @@ This project provides a semantic book recommendation system using advanced langu
     ```
 4. Run the application:
     ```sh
-    python app.py
+    python gradio_dashboard.py
     ```
 
 ## Usage
